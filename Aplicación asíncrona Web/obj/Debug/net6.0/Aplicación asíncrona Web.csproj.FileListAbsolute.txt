@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Aplicación asíncrona Web\Aplicación asíncrona Web\obj\Debug\net6.0\Aplicación asíncrona Web.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Aplicación asíncrona Web\Aplicación asíncrona Web\obj\Debug\net6.0\Aplicación asíncrona Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Aplicación asíncrona Web\Aplicación asíncrona Web\obj\Debug\net6.0\Aplicación asíncrona Web.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Aplicación asíncrona Web\Aplicación asíncrona Web\obj\Debug\net6.0\Aplicación asíncrona Web.AssemblyInfo.cs
+C:\Users\HP\source\repos\Aplicación asíncrona Web\Aplicación asíncrona Web\obj\Debug\net6.0\Aplicación asíncrona Web.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Aplicación asíncrona Web\Aplicación asíncrona Web\obj\Debug\net6.0\Aplicación asíncrona Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\Aplicación asíncrona Web\Aplicación asíncrona Web\obj\Debug\net6.0\Aplicación asíncrona Web.MvcApplicationPartsAssemblyInfo.cache

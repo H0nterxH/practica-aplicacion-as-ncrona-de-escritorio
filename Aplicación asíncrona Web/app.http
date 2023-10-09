@@ -1,0 +1,47 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Consultas con AJAX</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Consulta 1</h1>
+    <div id="consulta1Results"></div>
+
+    <h1>Consulta 2</h1>
+    <div id="consulta2Results"></div>
+
+    <script>
+        $(document).ready(function () {
+            // Llamada AJAX para la Consulta 1
+            $.ajax({
+                url: '/api/Consultas/Consulta1',
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    // Mostrar resultados de la Consulta 1
+                    $('#consulta1Results').html(JSON.stringify(data));
+                },
+                error: function (error) {
+                    console.error(error);
+                }
+            });
+
+            // Llamada AJAX para la Consulta 2
+            $.ajax({
+                url: '/api/Consultas/Consulta2',
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    // Mostrar resultados de la Consulta 2
+                    $('#consulta2Results').html(JSON.stringify(data));
+                },
+                error: function (error) {
+                    console.error(error);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
